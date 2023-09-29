@@ -1,0 +1,11 @@
+.all_products{
+    display: flex;
+    width: 100%;
+    justify-content:space-between;
+}
+.add{
+    width: 30%;
+}
+.pro_show{
+    width: 70%;
+}
